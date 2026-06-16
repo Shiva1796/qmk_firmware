@@ -11,7 +11,7 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["A6", "A5", "A4", "A8", "A9"],
+        "cols": ["A6", "A5", "A4", "A8"],
         "rows": ["A3", "A2", "A14", "B5", "C15", "B7"]
     },
     "processor": "STM32F072",

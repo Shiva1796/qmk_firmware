@@ -4,7 +4,7 @@
     "productId": "0x200B",
     "matrix": {
         "rows": 6,
-        "cols": 5
+        "cols": 4
     },
     "layouts": {
         "labels": [
