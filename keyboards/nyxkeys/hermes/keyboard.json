@@ -1,6 +1,6 @@
 {
     "manufacturer": "NyxKeys",
-    "keyboard_name": "Hermes",
+    "keyboard_name": "Hermes SP",
     "maintainer": "Shiva1796",
     "bootloader": "stm32-dfu",
     "diode_direction": "COL2ROW",
