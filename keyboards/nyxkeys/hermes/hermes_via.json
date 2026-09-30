@@ -6,6 +6,8 @@
         "rows": 6,
         "cols": 4
     },
+    "keycodes": [],
+    "menus": [],
     "layouts": {
         "labels": [
             ["Plus", "2U", "Split"],
